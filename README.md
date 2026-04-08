@@ -31,7 +31,7 @@ Claude helped craft the visual language.
 
 ---
 
-## Made with Tsukinatsune for the Cloudflare community
+## Made with Artoriasphere for the Cloudflare community
 
 ---
 
